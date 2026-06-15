@@ -1,3 +1,3 @@
-def say():
-    return "Hi Pytho, Thank you"
+def greeting():
+    return "Hi Python, Thank you"
 
